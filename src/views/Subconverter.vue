@@ -478,8 +478,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "肥羊增强型后端【vless reality+anytls】": "https://api.v1.mk",
-          "肥羊备用后端【vless reality+anytls】": "https://url.v1.mk",
+          "默认后端【vless reality+anytls】": "https://sub-web-modify-a8e.pages.dev"
         },
         backendOptions: [
           {value: "https://api.v1.mk"},
@@ -1416,6 +1415,7 @@ export default {
   }
 };
 </script>
+
 
 
 
